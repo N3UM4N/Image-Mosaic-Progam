@@ -2,6 +2,8 @@
 
   <header>
     <h1>README</h1>
+    <label>This is a test label</label>
+    <label>This is a test label</label>
   </header>
 
   <body>
