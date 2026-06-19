@@ -10,6 +10,6 @@
   </body>
 
   <footer>
-    <h3>Contact</h3>
+    <h4>Contact</h4>
   </footer>
 </html>
