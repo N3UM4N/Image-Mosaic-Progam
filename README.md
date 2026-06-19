@@ -10,6 +10,13 @@
     <p>an image that matches a specified colour palette.</p>
     <p>--------------------------------------------------</p>
     <p>The project is for </p>
+    <h4>Instructions</h4>
+    <ol>
+      <li>Download Folder labelled ____ </li>
+      <li>Open App named ____ </li>
+      <li>click the button on gui labelled "insert file"</li>
+      <li>To then download the image click the button that is labelled "download"</li>
+    </ol>
   </body>
 
   <footer>
